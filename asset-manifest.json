@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alswns/static/css/main.c0afadf5.chunk.css",
+    "main.css": "/alswns/static/css/main.688e230c.chunk.css",
     "main.js": "/alswns/static/js/main.7c3d8007.chunk.js",
     "main.js.map": "/alswns/static/js/main.7c3d8007.chunk.js.map",
     "runtime-main.js": "/alswns/static/js/runtime-main.9aa40c5f.js",
@@ -8,9 +8,9 @@
     "static/js/2.a3b81b17.chunk.js": "/alswns/static/js/2.a3b81b17.chunk.js",
     "static/js/2.a3b81b17.chunk.js.map": "/alswns/static/js/2.a3b81b17.chunk.js.map",
     "index.html": "/alswns/index.html",
-    "precache-manifest.6e6d5bc81725388fdff3c2d9694ac81e.js": "/alswns/precache-manifest.6e6d5bc81725388fdff3c2d9694ac81e.js",
+    "precache-manifest.3f3f48e9b4086d33ea72f95e3966a6a7.js": "/alswns/precache-manifest.3f3f48e9b4086d33ea72f95e3966a6a7.js",
     "service-worker.js": "/alswns/service-worker.js",
-    "static/css/main.c0afadf5.chunk.css.map": "/alswns/static/css/main.c0afadf5.chunk.css.map",
+    "static/css/main.688e230c.chunk.css.map": "/alswns/static/css/main.688e230c.chunk.css.map",
     "static/js/2.a3b81b17.chunk.js.LICENSE": "/alswns/static/js/2.a3b81b17.chunk.js.LICENSE",
     "static/media/facebook.png": "/alswns/static/media/facebook.e68f5a82.png",
     "static/media/net.png": "/alswns/static/media/net.347b368f.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.9aa40c5f.js",
     "static/js/2.a3b81b17.chunk.js",
-    "static/css/main.c0afadf5.chunk.css",
+    "static/css/main.688e230c.chunk.css",
     "static/js/main.7c3d8007.chunk.js"
   ]
 }
