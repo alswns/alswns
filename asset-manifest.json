@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c5aab70.chunk.css",
+    "main.js": "/static/js/main.24eb60d4.chunk.js",
+    "main.js.map": "/static/js/main.24eb60d4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.386ba5dd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.386ba5dd.js.map",
+    "static/js/2.b4c67c38.chunk.js": "/static/js/2.b4c67c38.chunk.js",
+    "static/js/2.b4c67c38.chunk.js.map": "/static/js/2.b4c67c38.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0a254a5a9b3d90c5b6d41b1c3fd9a1e6.js": "/precache-manifest.0a254a5a9b3d90c5b6d41b1c3fd9a1e6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6c5aab70.chunk.css.map": "/static/css/main.6c5aab70.chunk.css.map",
+    "static/js/2.b4c67c38.chunk.js.LICENSE": "/static/js/2.b4c67c38.chunk.js.LICENSE",
+    "static/media/facebook.png": "/static/media/facebook.e68f5a82.png",
+    "static/media/net.png": "/static/media/net.347b368f.png",
+    "static/media/self_introduce.png": "/static/media/self_introduce.acbd532b.png",
+    "static/media/sos.png": "/static/media/sos.42623222.png",
+    "static/media/view_headline-24px.svg": "/static/media/view_headline-24px.0dad915b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.386ba5dd.js",
+    "static/js/2.b4c67c38.chunk.js",
+    "static/css/main.6c5aab70.chunk.css",
+    "static/js/main.24eb60d4.chunk.js"
+  ]
+}
