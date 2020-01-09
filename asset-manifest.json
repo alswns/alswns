@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/alswns.github.io/static/css/main.6c5aab70.chunk.css",
-    "main.js": "/alswns.github.io/static/js/main.b0f85741.chunk.js",
-    "main.js.map": "/alswns.github.io/static/js/main.b0f85741.chunk.js.map",
-    "runtime-main.js": "/alswns.github.io/static/js/runtime-main.0b084e85.js",
-    "runtime-main.js.map": "/alswns.github.io/static/js/runtime-main.0b084e85.js.map",
-    "static/js/2.b4c67c38.chunk.js": "/alswns.github.io/static/js/2.b4c67c38.chunk.js",
-    "static/js/2.b4c67c38.chunk.js.map": "/alswns.github.io/static/js/2.b4c67c38.chunk.js.map",
-    "index.html": "/alswns.github.io/index.html",
-    "precache-manifest.bcdec546fc9f2c19d702d32574468a74.js": "/alswns.github.io/precache-manifest.bcdec546fc9f2c19d702d32574468a74.js",
-    "service-worker.js": "/alswns.github.io/service-worker.js",
-    "static/css/main.6c5aab70.chunk.css.map": "/alswns.github.io/static/css/main.6c5aab70.chunk.css.map",
-    "static/js/2.b4c67c38.chunk.js.LICENSE": "/alswns.github.io/static/js/2.b4c67c38.chunk.js.LICENSE",
-    "static/media/facebook.png": "/alswns.github.io/static/media/facebook.e68f5a82.png",
-    "static/media/net.png": "/alswns.github.io/static/media/net.347b368f.png",
-    "static/media/self_introduce.png": "/alswns.github.io/static/media/self_introduce.acbd532b.png",
-    "static/media/sos.png": "/alswns.github.io/static/media/sos.42623222.png",
-    "static/media/view_headline-24px.svg": "/alswns.github.io/static/media/view_headline-24px.0dad915b.svg"
+    "main.css": "/alswns/static/css/main.6c5aab70.chunk.css",
+    "main.js": "/alswns/static/js/main.994ef2f9.chunk.js",
+    "main.js.map": "/alswns/static/js/main.994ef2f9.chunk.js.map",
+    "runtime-main.js": "/alswns/static/js/runtime-main.9aa40c5f.js",
+    "runtime-main.js.map": "/alswns/static/js/runtime-main.9aa40c5f.js.map",
+    "static/js/2.b4c67c38.chunk.js": "/alswns/static/js/2.b4c67c38.chunk.js",
+    "static/js/2.b4c67c38.chunk.js.map": "/alswns/static/js/2.b4c67c38.chunk.js.map",
+    "index.html": "/alswns/index.html",
+    "precache-manifest.c33d494d15c034e10cf44954ec2ac47e.js": "/alswns/precache-manifest.c33d494d15c034e10cf44954ec2ac47e.js",
+    "service-worker.js": "/alswns/service-worker.js",
+    "static/css/main.6c5aab70.chunk.css.map": "/alswns/static/css/main.6c5aab70.chunk.css.map",
+    "static/js/2.b4c67c38.chunk.js.LICENSE": "/alswns/static/js/2.b4c67c38.chunk.js.LICENSE",
+    "static/media/facebook.png": "/alswns/static/media/facebook.e68f5a82.png",
+    "static/media/net.png": "/alswns/static/media/net.347b368f.png",
+    "static/media/self_introduce.png": "/alswns/static/media/self_introduce.acbd532b.png",
+    "static/media/sos.png": "/alswns/static/media/sos.42623222.png",
+    "static/media/view_headline-24px.svg": "/alswns/static/media/view_headline-24px.0dad915b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b084e85.js",
+    "static/js/runtime-main.9aa40c5f.js",
     "static/js/2.b4c67c38.chunk.js",
     "static/css/main.6c5aab70.chunk.css",
-    "static/js/main.b0f85741.chunk.js"
+    "static/js/main.994ef2f9.chunk.js"
   ]
 }
