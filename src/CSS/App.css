@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  a{
+    text-decoration:none;
+    color:white;
+  }
+body{
+  background-color:#191919;
+}
+.wrapperr{
+    height: 100%;
+    width:100%;
+}
+.center{
+    
+}

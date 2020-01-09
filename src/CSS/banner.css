@@ -1,0 +1,38 @@
+.wapper{
+    position: fixed;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    margin-top: 20px;
+    background-color: black;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0,0.8);
+    width: 95%;
+    display: flex;
+    
+    box-sizing: content-box;
+}
+.wapper *{
+    color: #cfcfcf;
+}
+.left{
+   margin-left: 30px;
+    font-size: 50px;
+    font-family: 'Jua', sans-serif;
+}
+.center{
+    flex: 1;
+}
+li{
+    font-family: 'Jua', sans-serif;
+    font-size: 40px;
+    display: inline;
+    margin-left:30px ;
+    color: #0000f3;    
+}
+
+.right{
+    
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 30px;
+}
