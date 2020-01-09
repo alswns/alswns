@@ -14,7 +14,7 @@ function App() {
     
     <div className='center'>
   
-      <Headroom>
+      {/* <Headroom> */}
   
     <Banner></Banner>
 
@@ -24,7 +24,7 @@ function App() {
     <Profile_component></Profile_component>
     <Protfolio_component></Protfolio_component>
     <Contact></Contact>
-    </Headroom>
+    {/* </Headroom> */}
     </div>
     
     

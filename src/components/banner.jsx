@@ -24,21 +24,36 @@ function Banner(){
         <div className='center'></div>
         <div className='right'>
             <ul>
+                <a href="https://github.com/alswns">
                 <li>Github</li>
+                </a>
+                <a href="#Profile">
                 <li>Profile</li>
+                </a>
+                <a href="#Portfolio">
                 <li>Portfolio</li>
+                </a>
+                <a href="#Contact">
                 <li>Contact</li>
+                </a>
             </ul>
 
         <div className='list'>
            
             <img src={views} alt="" onClick={()=>click(test,setTest)}  />
             <ul className='hidden' >
-            <li>Github</li>
+            <a href="https://github.com/alswns">
+                <li>Github</li>
+                </a>
+                <a href="#Profile">
                 <li>Profile</li>
+                </a>
+                <a href="#Portfolio">
                 <li>Portfolio</li>
+                </a>
+                <a href="#Contact">
                 <li>Contact</li>
-
+                </a>
             </ul>
 
         </div>

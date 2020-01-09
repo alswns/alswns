@@ -9,7 +9,9 @@ function Protfolio_component(){
 return(
     <>
     <div className='title'>
+        <a id='Portfolio'>
         Portfolio
+        </a>
     </div>
     <Portfolio_item img={net} main="Netflix copy" sub="This is netflix copy. he reason why I made this project is to improve my React skills and to understand me. By making this project, my React skill was improved and I was able to make a project."></Portfolio_item>
     <Portfolio_item img={sos} main="SoS Project" sub="This project was designed to deliver information for the disabled. I brought the map using Kakao map api and found the location of the subway. And it showed the location of low-phase buses using API of public data portal."></Portfolio_item>

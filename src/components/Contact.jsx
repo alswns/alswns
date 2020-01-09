@@ -4,7 +4,7 @@ function Contact(){
 
     return(
         <div style={{marginBottom:400+'px'}}>
-        <div className='Contact'>Contact</div>
+        <div name='Contact' className='Contact'><a id='Contact'> Contact</a></div>
         <div className='myself'>Github : 
         <a href="https://github.com/alswns">github.com/alswns</a>
         

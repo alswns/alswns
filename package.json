@@ -1,12 +1,15 @@
 {
+  
   "name": "alswns",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://alswns.github.io/alswns",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
     "animate.css": "^3.7.2",
+    "gh-pages": "^2.2.0",
     "react": "^16.12.0",
     "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^16.12.0",
@@ -17,7 +20,9 @@
     "start": "set PORT=3333 &&react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy" : "npm run build&&gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,5 +38,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+    
   }
 }

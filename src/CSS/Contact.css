@@ -16,3 +16,10 @@
     color: skyblue;
 
 }
+@media ( max-width: 900px ) {
+    .Contact{
+        font-size: 40px;
+    }
+    .myself{
+      font-size: 30px;
+    }}

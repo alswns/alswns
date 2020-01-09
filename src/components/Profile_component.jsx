@@ -6,7 +6,9 @@ function Profile(){
 return(
     <>
     <div className='title'>
+        <a id='Profile'>
         Profile
+        </a>
     </div>
 
     <Profile_item main="Name" sub="Minjoon Park"></Profile_item>
