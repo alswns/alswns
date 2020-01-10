@@ -14,3 +14,19 @@ font-weight: 600;
     margin-bottom: 2%;
     line-height: 3.5rem;
 }
+@media ( max-width: 900px ) {
+ 
+    .main_text{
+     padding-left: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    }
+    .sub{
+        padding-left: 10px;
+        color: white;
+        font-size: 20px;
+        font-weight: 100;
+        line-height: 2rem;
+    }
+
+}

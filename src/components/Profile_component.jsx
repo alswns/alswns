@@ -16,7 +16,7 @@ return(
     <Profile_item main="Education" sub="Graduated Seoul Sunil Elementary School.\Graduated Seoul myongji Middle School.\Currently attending Sunrin Internet High School Software Division.\Year 2019, Joined EMOTION, Artificial intelligence Research Club."></Profile_item>
     <Profile_item main="Tech Ability" sub="React, Javascript, MongoDB, Python.\
     HTML, CSS, Django"></Profile_item>
-
+    
     </>
     
 

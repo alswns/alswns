@@ -53,6 +53,7 @@ li>ul>a>img{
 }
 @media ( max-width: 900px ) {
     li>ul>a>img{
+        animation-name: none;
         margin-right:10px ;
         margin-left:10px ;
     }

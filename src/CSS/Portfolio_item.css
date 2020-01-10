@@ -25,9 +25,10 @@
 }
 @media ( max-width: 900px ) {
     .item{
-        margin: 0px;
-       width: 100%;
+        margin: 10px;
+       width: 800px;
        margin-left: 0px;
+
    }
    .Profile{
     margin-left: 0px;

@@ -1,1 +1,19 @@
+.portfolio{
+    text-align: center;
+    overflow: auto;
+}
 
+@media ( max-width: 900px ) {
+    .portfolio{
+        overflow: auto;
+        width: 300%;
+        overflow: auto;
+        display:flex;
+        margin-left:3px;
+    }
+    .title{
+        
+        overflow: auto;
+        overflow-y: initial;
+    }
+}
